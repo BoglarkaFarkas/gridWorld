@@ -6,3 +6,11 @@ In the following image, we can see the result of the 5x5 grid based on the rules
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/BoglarkaFarkas/gridWorld/blob/main/images/image1.png" alt="Result " style="display: block;margin-left: auto;margin-right: auto;width: 50%;" width="300"/>
 </div>
+    
+## Terms of Use
+
+This program is created by Boglárka Farkas.
+
+Users are required to attribute the author in all references or documentation when using this code.
+
+For further details and conditions, please refer to the accompanying [LICENSE](LICENSE) file.
